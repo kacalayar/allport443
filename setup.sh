@@ -105,7 +105,7 @@ echo " "
 echo "Installation has been completed!!"
 echo ""                                                    |tee -a log-install.txt
 echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m" |tee -a log-install.txt
-echo -e "\E[44;1;41m           🔰 Bagoes Vpn🔰            \E[0m"  |tee -a log-install.txt
+echo -e "\E[44;1;41m           🔰 TAJIPUTRA 🔰            \E[0m"  |tee -a log-install.txt
 echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m" |tee -a log-install.txt
 echo ""                                                    |tee -a log-install.txt
 echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m" |tee -a log-install.txt
@@ -203,7 +203,7 @@ echo -e " 🔰 SOCKS5 TCP TLS                 : 1080"       |tee -a log-install.
 echo -e " 🔰 SOCKS UDP                      : 999"         |tee -a log-install.txt
 echo -e " 🔰 XRAY MT PROTO                  : 111"         |tee -a log-install.txt
 echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"  |tee -a log-install.txt
-echo -e "\E[44;1;41m           🔰 SOLO THE SPIRIT OF JAVA 🔰            \E[0m"  |tee -a log-install.txt
+echo -e "\E[44;1;41m           🔰 TAJIPUTRA 🔰            \E[0m"  |tee -a log-install.txt
 echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"  |tee -a log-install.txt
 echo ""  |tee -a log-install.txt
 echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"  |tee -a log-install.txt
@@ -218,10 +218,9 @@ echo -e " 🔰 Autoreboot On 04.00 GMT +7"                   |tee -a log-install
 echo -e " 🔰 Autobackup Data"                              |tee -a log-install.txt
 echo -e " 🔰 Restore Data"                                 |tee -a log-install.txt
 echo -e " 🔰 Auto Delete Expired Account"                  |tee -a log-install.txt
-echo -e " 🔰 NGUTER,CENTRAL JAVA,INDONESIA"                |tee -a log-install.txt
-echo -e " 🔰 Editing and Scan Typo by GANDRING"            |tee -a log-install.txt
+echo -e " 🔰 Editing and Scan Typo by TAJIPUTRA"            |tee -a log-install.txt
 echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"  |tee -a log-install.txt
-echo -e "\E[44;1;41m           🔰 SOLO THE SPIRIT OF JAVA 🔰            \E[0m"  |tee -a log-install.txt
+echo -e "\E[44;1;41m           🔰 TAJIPUTRA 🔰            \E[0m"  |tee -a log-install.txt
 echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"  |tee -a log-install.txt
 echo -e " 🔰 Installation Log --> /root/log-install.txt" |tee -a log-install.txt
 echo " Reboot 5 Sec"
