@@ -19,25 +19,25 @@ CYAN='\033[0;36m'
 LIGHT='\033[0;37m'
 # ==========================================
 # Link Hosting Kalian Untuk Ssh Vpn
-wisnuvpn="raw.githubusercontent.com/kacalayar/allport443/ssh"
+wisnuvpn="raw.githubusercontent.com/kacalayar/allport443/sae/ssh"
 # Link Hosting Kalian Untuk Sstp
-wisnuvpnn="raw.githubusercontent.com/kacalayar/allport443/sstp"
+wisnuvpnn="raw.githubusercontent.com/kacalayar/allport443/sae/sstp"
 # Link Hosting Kalian Untuk Ssr
-wisnuvpnnn="raw.githubusercontent.com/kacalayar/allport443/ssr"
+wisnuvpnnn="raw.githubusercontent.com/kacalayar/allport443/sae/ssr"
 # Link Hosting Kalian Untuk Shadowsocks
-wisnuvpnnnn="raw.githubusercontent.com/kacalayar/allport443/shadowsocks"
+wisnuvpnnnn="raw.githubusercontent.com/kacalayar/allport443/sae/shadowsocks"
 # Link Hosting Kalian Untuk Wireguard
-wisnuvpnnnnn="raw.githubusercontent.com/kacalayar/allport443/wireguard"
+wisnuvpnnnnn="raw.githubusercontent.com/kacalayar/allport443/sae/wireguard"
 # Link Hosting Kalian Untuk Xray
-wisnuvpnnnnnn="raw.githubusercontent.com/kacalayar/allport443/xray"
+wisnuvpnnnnnn="raw.githubusercontent.com/kacalayar/allport443/sae/xray"
 # Link Hosting Kalian Untuk Ipsec
-wisnuvpnnnnnnn="raw.githubusercontent.com/kacalayar/allport443/ipsec"
+wisnuvpnnnnnnn="raw.githubusercontent.com/kacalayar/allport443/sae/ipsec"
 # Link Hosting Kalian Untuk Backup
-wisnuvpnnnnnnnn="raw.githubusercontent.com/kacalayar/allport443/backup"
+wisnuvpnnnnnnnn="raw.githubusercontent.com/kacalayar/allport443/sae/backup"
 # Link Hosting Kalian Untuk Websocket
-wisnuvpnnnnnnnnn="raw.githubusercontent.com/kacalayar/allport443/websocket"
+wisnuvpnnnnnnnnn="raw.githubusercontent.com/kacalayar/allport443/sae/websocket"
 # Link Hosting Kalian Untuk Ohp
-wisnuvpnnnnnnnnnn="raw.githubusercontent.com/kacalayar/allport443/ohp"
+wisnuvpnnnnnnnnnn="raw.githubusercontent.com/kacalayar/allport443/sae/ohp"
 
 # Getting
 MYIP=$(wget -qO- ipinfo.io/ip);

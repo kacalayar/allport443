@@ -38,7 +38,7 @@ latest_version="$(curl -s https://api.github.com/repos/XTLS/Xray-core/releases |
 
 # / / Installation Xray Core
 xraycore_link="https://github.com/XTLS/Xray-core/releases/download/v$latest_version/xray-linux-64.zip"
-#xraycore_link="https://raw.githubusercontent.com/kacalayar/allport443/xray/xray-linux-64.zip"
+#xraycore_link="https://raw.githubusercontent.com/kacalayar/allport443/sae/xray/xray-linux-64.zip"
 # / / Make Main Directory
 mkdir -p /usr/bin/xray
 mkdir -p /etc/xray
@@ -625,8 +625,8 @@ touch /etc/trojan-go/akun.conf
 touch /var/log/trojan-go/trojan-go.log
 touch /etc/trojan-go/trojan-go.pid
 
-wget -O /etc/xray/geoip.dat https://raw.githubusercontent.com/kacalayar/allport443/xray/geoip.dat
-wget -O /etc/xray/geosite.dat https://raw.githubusercontent.com/kacalayar/allport443/xray/geosite.dat
+wget -O /etc/xray/geoip.dat https://raw.githubusercontent.com/kacalayar/allport443/sae/xray/geoip.dat
+wget -O /etc/xray/geosite.dat https://raw.githubusercontent.com/kacalayar/allport443/sae/xray/geosite.dat
 # Buat Config Trojan Go
 cat > /etc/trojan-go/config.json << END
 {
