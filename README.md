@@ -1,3 +1,3 @@
 apt update && apt upgrade && apt install wget && apt install curl && apt install screen
 
-wget https://raw.githubusercontent.com/kacalayar/allport443/sae/setup.sh && chmod +x setup.sh && ./setup.sh
+wget https://raw.githubusercontent.com/kacalayar/allport443/setup.sh && chmod +x setup.sh && ./setup.sh
